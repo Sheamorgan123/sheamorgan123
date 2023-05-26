@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello Welcome!👋
+### :rocket: About Me
+- I am currently student pursuing an undergraduate Computer Science degree at __Colorado State University__:ram:. <sub> Goooo Rams!</sub>
+
+- Besides using GitHub as a tool for school projects, I also enjoy doing projects for myself or to improve my coding skills! I am currently fluent in languages; C++/C, Java, Python, JavaScript, SQL, HTTP, and Bash:computer:.
+
+- Outside the world of Computer Science I enjoy video games:space_invader:, hitting the gym:weight_lifting_woman:, hiking:mountain_snow:, and traveling:airplane:.
+
 
 <!--
 **Sheamorgan123/sheamorgan123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
