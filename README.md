@@ -11,7 +11,7 @@
 
 ##
 - 🔭 I’m currently working on a multi-use music app, used to create 'real-time' radio stations with friends!
-- 🌱 I’m currently learning systems security!
+- 🌱 I’m currently learning systems security and operating systems!
 - 👯 I’m looking to collaborate on with groups for some upcoming hackathons.
 - 📫 How to reach me: sheaspalding@gmail.com
 - ⚡ Fun fact: My favorite type of food is New Mexican dishes 😋
