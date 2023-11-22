@@ -2,7 +2,7 @@
 ### :rocket: About Me
 - I am currently student pursuing an undergraduate Computer Science degree at __Colorado State University__:ram:. <sub> Goooo Rams!</sub>
 
-- I have a strong desire to be a software developer, but I am also interested in expanding my career to data science.
+- I have a strong desire to be a front-end software developer, but I am also interested in expanding my career to data science.
 
 - Besides using GitHub as a tool for school projects, I also enjoy doing projects for myself or to improve my coding skills! I am currently fluent in languages; C++/C, Java, Python, JavaScript, SQL, HTTP, and Bash:computer:.
 
