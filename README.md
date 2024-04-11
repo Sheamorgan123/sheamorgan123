@@ -4,7 +4,7 @@
 
 - I have a strong desire to be a front-end software developer, but I am also interested in expanding my career to data science.
 
-- Besides using GitHub as a tool for school projects, I also enjoy doing projects for myself or to improve my coding skills! I am currently fluent in languages; C++/C, Java, Python, JavaScript, SQL, HTTP, and Bash :computer:.
+- Besides using GitHub as a tool for school projects, I also enjoy doing projects for myself or to improve my coding skills! I am currently fluent in languages; C++/C, Java, Python, JavaScript, SQL, HTTP, PHP, and Bash :computer:.
 
 - Outside the world of Computer Science I enjoy video games :space_invader:, hitting the gym :weight_lifting_woman:, hiking :mountain_snow:, and traveling :airplane:.
 
