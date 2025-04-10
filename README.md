@@ -1,7 +1,6 @@
 ### Hello Welcome!👋
 ### :rocket: About Me
-- I am currently student pursuing an undergraduate Computer Science degree at __Colorado State University__:ram:. <sub> Goooo Rams!</sub>
-
+- I am a recent graduate of Colorado State University, holding a Bachelor of Science in Computer Science. :ram: <sub>Proud alumnus — Go Rams!</sub>
 - I have a strong desire to be a front-end software developer, but I am also interested in expanding my career to data science.
 
 - Besides using GitHub as a tool for school projects, I also enjoy doing projects for myself or to improve my coding skills! I am currently fluent in languages; C++/C, Java, Python, JavaScript, SQL, HTTP, PHP, and Bash :computer:.
